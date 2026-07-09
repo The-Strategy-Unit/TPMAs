@@ -24,12 +24,12 @@ IP-AA-006,Ambulatory Care Sensitive Admissions,Vaccine Preventable,ambulatory_ca
 IP-AA-007,Cancelled Operations,NA,cancelled_operations,Inpatients,Activity Avoidance,Hospital Efficiency,Planned Surgical Activity (Adult),v0.6.0,NA
 IP-AA-008,End of Life Care Admissions,Died Within 2 Days,eol_care_2_days,Inpatients,Activity Avoidance,Redirection/Substitution,Hospital Activity Amenable to Primary Care and Community Interventions,v0.6.0,NA
 IP-AA-009,End of Life Care Admissions,Died Within 3-14 Days,eol_care_3_to_14_days,Inpatients,Activity Avoidance,Redirection/Substitution,Hospital Activity Amenable to Primary Care and Community Interventions,v0.6.0,NA
-IP-AA-010,Interventions with Limited Evidence,ENT,evidence_based_interventions_ent,Inpatients,Activity Avoidance,De-Adoption,Planned Surgical Activity (Adult),v0.6.0,NA
-IP-AA-011,Interventions with Limited Evidence,General Surgery,evidence_based_interventions_general_surgery,Inpatients,Activity Avoidance,De-Adoption,Planned Surgical Activity (Adult),v0.6.0,NA
-IP-AA-012,Interventions with Limited Evidence,GI Surgical,evidence_based_interventions_gi_surgical,Inpatients,Activity Avoidance,De-Adoption,Planned Surgical Activity (Adult),v0.6.0,NA
-IP-AA-013,Interventions with Limited Evidence,MSK,evidence_based_interventions_msk,Inpatients,Activity Avoidance,De-Adoption,Planned Surgical Activity (Adult),v0.6.0,NA
-IP-AA-014,Interventions with Limited Evidence,Urology,evidence_based_interventions_urology,Inpatients,Activity Avoidance,De-Adoption,Planned Surgical Activity (Adult),v0.6.0,NA
-IP-AA-015,Interventions with Limited Evidence,Vascular Varicose Veins,evidence_based_interventions_vascular_varicose_veins,Inpatients,Activity Avoidance,De-Adoption,Planned Surgical Activity (Adult),v0.6.0,NA
+IP-AA-010,Interventions with Limited Evidence,ENT,evidence_based_interventions_ent,Inpatients,Activity Avoidance,De-adoption,Planned Surgical Activity (Adult),v0.6.0,NA
+IP-AA-011,Interventions with Limited Evidence,General Surgery,evidence_based_interventions_general_surgery,Inpatients,Activity Avoidance,De-adoption,Planned Surgical Activity (Adult),v0.6.0,NA
+IP-AA-012,Interventions with Limited Evidence,GI Surgical,evidence_based_interventions_gi_surgical,Inpatients,Activity Avoidance,De-adoption,Planned Surgical Activity (Adult),v0.6.0,NA
+IP-AA-013,Interventions with Limited Evidence,MSK,evidence_based_interventions_msk,Inpatients,Activity Avoidance,De-adoption,Planned Surgical Activity (Adult),v0.6.0,NA
+IP-AA-014,Interventions with Limited Evidence,Urology,evidence_based_interventions_urology,Inpatients,Activity Avoidance,De-adoption,Planned Surgical Activity (Adult),v0.6.0,NA
+IP-AA-015,Interventions with Limited Evidence,Vascular Varicose Veins,evidence_based_interventions_vascular_varicose_veins,Inpatients,Activity Avoidance,De-adoption,Planned Surgical Activity (Adult),v0.6.0,NA
 IP-AA-016,Falls Related Admissions,NA,falls_related_admissions,Inpatients,Activity Avoidance,Prevention,Hospital Activity Amenable to Public Health Interventions,v0.6.0,NA
 IP-AA-017,Frailty Admissions,High Frailty Risk,frail_elderly_high,Inpatients,Activity Avoidance,Redirection/Substitution,Hospital Activity Amenable to Primary Care and Community Interventions,v0.6.0,NA
 IP-AA-018,Frailty Admissions,Intermediate Frailty Risk,frail_elderly_intermediate,Inpatients,Activity Avoidance,Redirection/Substitution,Hospital Activity Amenable to Primary Care and Community Interventions,v0.6.0,NA
@@ -79,18 +79,18 @@ IP-EF-028,Same Day Emergency Care,Low Potential,same_day_emergency_care_low,Inpa
 IP-EF-029,Same Day Emergency Care,Moderate Potential,same_day_emergency_care_moderate,Inpatients,Efficiencies,Hospital Efficiency,Emergency Department and Acute Medicine Activity,v3.4.0,NA
 IP-EF-030,Same Day Emergency Care,High Potential,same_day_emergency_care_high,Inpatients,Efficiencies,Hospital Efficiency,Emergency Department and Acute Medicine Activity,v3.4.0,NA
 IP-EF-031,Same Day Emergency Care,Very High Potential,same_day_emergency_care_very_high,Inpatients,Efficiencies,Hospital Efficiency,Emergency Department and Acute Medicine Activity,v3.4.0,NA
-OP-AA-001,Consultant to Consultant Outpatient Referrals,"Adult, Non-Surgical",consultant_to_consultant_reduction_adult_non-surgical,Outpatients,Activity Avoidance,De-Adoption,Planned Medical Activity (Adult),v0.6.0,NA
-OP-AA-002,Consultant to Consultant Outpatient Referrals,"Adult, Surgical",consultant_to_consultant_reduction_adult_surgical,Outpatients,Activity Avoidance,De-Adoption,Planned Surgical Activity (Adult),v0.6.0,NA
-OP-AA-003,Consultant to Consultant Outpatient Referrals,"Children, Non-Surgical",consultant_to_consultant_reduction_child_non-surgical,Outpatients,Activity Avoidance,De-Adoption,Planned Medical Activity (Paediatric),v0.6.0,NA
-OP-AA-004,Consultant to Consultant Outpatient Referrals,"Children, Surgical",consultant_to_consultant_reduction_child_surgical,Outpatients,Activity Avoidance,De-Adoption,Planned Surgical Activity (Paediatric),v0.6.0,NA
-OP-AA-005,Follow-Up Outpatient Attendances,"Adult, Non-Surgical",followup_reduction_adult_non-surgical,Outpatients,Activity Avoidance,De-Adoption,Planned Medical Activity (Adult),v0.6.0,NA
-OP-AA-006,Follow-Up Outpatient Attendances,"Adult, Surgical",followup_reduction_adult_surgical,Outpatients,Activity Avoidance,De-Adoption,Planned Surgical Activity (Adult),v0.6.0,NA
-OP-AA-007,Follow-Up Outpatient Attendances,"Children, Non-Surgical",followup_reduction_child_non-surgical,Outpatients,Activity Avoidance,De-Adoption,Planned Medical Activity (Paediatric),v0.6.0,NA
-OP-AA-008,Follow-Up Outpatient Attendances,"Children, Surgical",followup_reduction_child_surgical,Outpatients,Activity Avoidance,De-Adoption,Planned Surgical Activity (Paediatric),v0.6.0,NA
-OP-AA-009,GP Outpatient Referrals,"Adult, Non-Surgical",gp_referred_first_attendance_reduction_adult_non-surgical,Outpatients,Activity Avoidance,De-Adoption,Planned Medical Activity (Adult),v0.6.3,NA
-OP-AA-010,GP Outpatient Referrals,"Adult, Surgical",gp_referred_first_attendance_reduction_adult_surgical,Outpatients,Activity Avoidance,De-Adoption,Planned Surgical Activity (Adult),v0.6.3,NA
-OP-AA-011,GP Outpatient Referrals,"Children, Non-Surgical",gp_referred_first_attendance_reduction_child_non-surgical,Outpatients,Activity Avoidance,De-Adoption,Planned Medical Activity (Paediatric),v0.6.3,NA
-OP-AA-012,GP Outpatient Referrals,"Children, Surgical",gp_referred_first_attendance_reduction_child_surgical,Outpatients,Activity Avoidance,De-Adoption,Planned Surgical Activity (Paediatric),v0.6.3,NA
+OP-AA-001,Consultant to Consultant Outpatient Referrals,"Adult, Non-Surgical",consultant_to_consultant_reduction_adult_non-surgical,Outpatients,Activity Avoidance,De-adoption,Planned Medical Activity (Adult),v0.6.0,NA
+OP-AA-002,Consultant to Consultant Outpatient Referrals,"Adult, Surgical",consultant_to_consultant_reduction_adult_surgical,Outpatients,Activity Avoidance,De-adoption,Planned Surgical Activity (Adult),v0.6.0,NA
+OP-AA-003,Consultant to Consultant Outpatient Referrals,"Children, Non-Surgical",consultant_to_consultant_reduction_child_non-surgical,Outpatients,Activity Avoidance,De-adoption,Planned Medical Activity (Paediatric),v0.6.0,NA
+OP-AA-004,Consultant to Consultant Outpatient Referrals,"Children, Surgical",consultant_to_consultant_reduction_child_surgical,Outpatients,Activity Avoidance,De-adoption,Planned Surgical Activity (Paediatric),v0.6.0,NA
+OP-AA-005,Follow-Up Outpatient Attendances,"Adult, Non-Surgical",followup_reduction_adult_non-surgical,Outpatients,Activity Avoidance,De-adoption,Planned Medical Activity (Adult),v0.6.0,NA
+OP-AA-006,Follow-Up Outpatient Attendances,"Adult, Surgical",followup_reduction_adult_surgical,Outpatients,Activity Avoidance,De-adoption,Planned Surgical Activity (Adult),v0.6.0,NA
+OP-AA-007,Follow-Up Outpatient Attendances,"Children, Non-Surgical",followup_reduction_child_non-surgical,Outpatients,Activity Avoidance,De-adoption,Planned Medical Activity (Paediatric),v0.6.0,NA
+OP-AA-008,Follow-Up Outpatient Attendances,"Children, Surgical",followup_reduction_child_surgical,Outpatients,Activity Avoidance,De-adoption,Planned Surgical Activity (Paediatric),v0.6.0,NA
+OP-AA-009,GP Outpatient Referrals,"Adult, Non-Surgical",gp_referred_first_attendance_reduction_adult_non-surgical,Outpatients,Activity Avoidance,De-adoption,Planned Medical Activity (Adult),v0.6.3,NA
+OP-AA-010,GP Outpatient Referrals,"Adult, Surgical",gp_referred_first_attendance_reduction_adult_surgical,Outpatients,Activity Avoidance,De-adoption,Planned Surgical Activity (Adult),v0.6.3,NA
+OP-AA-011,GP Outpatient Referrals,"Children, Non-Surgical",gp_referred_first_attendance_reduction_child_non-surgical,Outpatients,Activity Avoidance,De-adoption,Planned Medical Activity (Paediatric),v0.6.3,NA
+OP-AA-012,GP Outpatient Referrals,"Children, Surgical",gp_referred_first_attendance_reduction_child_surgical,Outpatients,Activity Avoidance,De-adoption,Planned Surgical Activity (Paediatric),v0.6.3,NA
 OP-EF-001,Remote Outpatient Attendances,"Adult, Non-Surgical",convert_to_tele_adult_non-surgical,Outpatients,Efficiencies,Hospital Efficiency,Planned Medical Activity (Adult),v0.6.0,NA
 OP-EF-002,Remote Outpatient Attendances,"Adult, Surgical",convert_to_tele_adult_surgical,Outpatients,Efficiencies,Hospital Efficiency,Planned Surgical Activity (Adult),v0.6.0,NA
 OP-EF-003,Remote Outpatient Attendances,"Children, Non-Surgical",convert_to_tele_child_non-surgical,Outpatients,Efficiencies,Hospital Efficiency,Planned Medical Activity (Paediatric),v0.6.0,NA
