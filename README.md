@@ -1,5 +1,10 @@
 # TPMAs: Types of Potentially Mitigatable Activity
 
-A repository to host documentation relating to types of potentially mitigatable activity (TPMAs).
+>[!NOTE]
+>This repository is a work in progress.
 
-This repository is a work in progress.
+A centralised, authoritative source of files and documentation relating to types of potentially mitigatable activity (TPMAs).
+
+## Files
+
+* `reference/tpmas-lookup.csv` is the core lookup file for TPMAs, which includes unique codes, names, categories and the model-version numbers of introduction and deprecation (if relevant).
