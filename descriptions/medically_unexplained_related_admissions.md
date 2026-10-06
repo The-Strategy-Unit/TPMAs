@@ -1,8 +1,13 @@
 ---
 introduced: '2022-10-07'
-last_edited: '2022-10-07'
+last_edited: '2026-10-06'
+changes:
+  - date: 2026-10-06
+    type: bugfix
+    description: Spelling symtoms
+    ref: nhp_data#734
 ---
-Around 1 in 4 people who visit their GP have symtoms that the GP is unable to explain [even after conducting appropriate testing][1].
+Around 1 in 4 people who visit their GP have symptoms that the GP is unable to explain [even after conducting appropriate testing][1].
 Sometimes the symptoms are severe enough to precipitate an admission to hospital yet ultimately an underlying physical cause cannot be determined. 
 
 [1]: https://www.rcpsych.ac.uk/mental-health/problems-disorders/medically-unexplained-symptoms
