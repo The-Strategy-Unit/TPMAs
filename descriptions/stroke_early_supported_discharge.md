@@ -2,4 +2,6 @@
 introduced: '2022-10-07'
 last_edited: '2022-10-07'
 ---
-Early supported discharge is an intervention for adults after a stroke that allows their care to be transferred from an inpatient environment to a community setting. It enables people to continue their rehabilitation therapy at home, with the same intensity and expertise that they would receive in hospital. The model identifies patients who have a stroke related HRG code who may benefit from a reduce inpatient LOS through supported discharge.
+Early supported discharge is an intervention for adults after a stroke that allows their care to be transferred from an inpatient environment to a community setting.
+It enables people to continue their rehabilitation therapy at home, with the same intensity and expertise that they would receive in hospital.
+The model identifies patients who have a stroke related HRG code who may benefit from a reduce inpatient LOS through supported discharge.

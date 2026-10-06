@@ -2,7 +2,8 @@
 introduced: '2022-10-07'
 last_edited: '2022-10-07'
 ---
-The directory of ambulatory emergency care for adults published by the Institute for innovation and improvement identifies 49 emergency conditions that have the potential to be managed on an ambulatory basis - i.e. as an emergency day case. We have grouped these conditions into four categories:
+The directory of ambulatory emergency care for adults published by the Institute for innovation and improvement identifies 49 emergency conditions that have the potential to be managed on an ambulatory basis - i.e. as an emergency day case.
+We have grouped these conditions into four categories:
 
 * Those that the institute suggest have a low potential to be managed on an ambulatory basis (10-30% of cases);
 * Those that the institute suggest have a moderate potential to be managed on an ambulatory basis (30-60% of cases);

@@ -2,11 +2,15 @@
 introduced: '2022-10-07'
 last_edited: '2022-10-07'
 ---
-Day surgery is now established practice with rates continuing to increase. Due to advances in anaesthesia and surgical techniques, it is the standard pathway of care for many complex patients and procedures traditionally treated through inpatient pathways.
+Day surgery is now established practice with rates continuing to increase.
+Due to advances in anaesthesia and surgical techniques, it is the standard pathway of care for many complex patients and procedures traditionally treated through inpatient pathways.
 
-Day surgery represents high-quality patient care with excellent patient satisfaction. Shorter hospital stays and early mobilization reduce rates of hospital-acquired infection and venous thromboembolism. Patients overwhelmingly endorse day surgery, with smaller waiting times, less risk of cancellation, lower rates of infection, and the preference of their own surroundings to convalesce. 
+Day surgery represents high-quality patient care with excellent patient satisfaction.
+Shorter hospital stays and early mobilization reduce rates of hospital-acquired infection and venous thromboembolism.
+Patients overwhelmingly endorse day surgery, with smaller waiting times, less risk of cancellation, lower rates of infection, and the preference of their own surroundings to convalesce. 
 
-The tool identifies elective spells with a procedure where there is potential to deliver that activity in a different setting. It classifies those spells into four types based on an analysis of national data:
+The tool identifies elective spells with a procedure where there is potential to deliver that activity in a different setting.
+It classifies those spells into four types based on an analysis of national data:
 
 * Type A (usually OP) - Procedures that are usually (>50% of all spells/attendances nationally) carried out in an outpatient procedure room
 * Type B (usually DC) - Procedures that are usually (>50% of all spells/attendances nationally) carried out in a day case setting

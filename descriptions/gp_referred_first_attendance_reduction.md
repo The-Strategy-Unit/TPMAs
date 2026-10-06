@@ -2,6 +2,7 @@
 introduced: '2022-10-07'
 last_edited: '2022-10-07'
 ---
-Inappropriate referrals from a GP into secondary care can account for a material proportion of outpatient activity resulting in sub optimal treatment, delays and inefficient use of consultant time. Many of these referrals could be more appropriately dealt with in other services or managed in primary care.
+Inappropriate referrals from a GP into secondary care can account for a material proportion of outpatient activity resulting in sub optimal treatment, delays and inefficient use of consultant time.
+Many of these referrals could be more appropriately dealt with in other services or managed in primary care.
 
 Commissioners have sought to reduce the rate at which GPs refer patients to secondary care by introducing referral management services, peer review of referrals and more detailed referral guidelines.

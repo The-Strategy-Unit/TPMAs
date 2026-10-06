@@ -2,7 +2,8 @@
 introduced: '2022-10-07'
 last_edited: '2022-10-07'
 ---
-ACSC admissions are those that can potentially be avoided with effective management and treatment such as improved primary or community health care services such as screening, vaccination, immunisation and health monitoring. Admissions of this type are identified using a basket of ICD10 codes for 19 chronic and acute conditions.
+ACSC admissions are those that can potentially be avoided with effective management and treatment such as improved primary or community health care services such as screening, vaccination, immunisation and health monitoring.
+Admissions of this type are identified using a basket of ICD10 codes for 19 chronic and acute conditions.
 
 These conditions are categorised into three groups:
 

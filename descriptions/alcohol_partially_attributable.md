@@ -15,4 +15,6 @@ These admissions have been grouped into 2 categories:
 * wholly attributable to alcohol consumption (100%)
 * partially attributable to alcohol consumption
 
-Whilst most activity mitigation strategies identify all spells based on the specified SQL coding in this case the model only selects a proportion of spells based on the alcohol attributable fraction (AAF) for that condition. As an example the AAF for cancer of the oesophagus for males aged between 35 and 44 is 52% therefore the model randomly selects 52% of spells meeting these criteria. The AAFs are also sourced from the above referenced document.
+Whilst most activity mitigation strategies identify all spells based on the specified SQL coding in this case the model only selects a proportion of spells based on the alcohol attributable fraction (AAF) for that condition.
+As an example the AAF for cancer of the oesophagus for males aged between 35 and 44 is 52% therefore the model randomly selects 52% of spells meeting these criteria.
+The AAFs are also sourced from the above referenced document.
