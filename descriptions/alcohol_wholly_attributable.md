@@ -1,3 +1,7 @@
+---
+introduced: '2022-10-07'
+last_edited: '2022-10-07'
+---
 Research into alcohol related hospitalisation (Jones 2013) suggests there are a number of admissions that are attributable to excess alcohol consumption which can ultimately lead to an emergency hospital admission or even death. By raising public awareness against the harms of excessive alcohol consumption and having primary care interventions in place, it may be possible to avoid these admissions.
 
 Here, the groupings used by Jones and Bellis have been modified, leaving:

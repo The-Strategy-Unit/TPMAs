@@ -1,3 +1,7 @@
+---
+introduced: '2022-10-07'
+last_edited: '2022-10-07'
+---
 Older people are major users of acute health care. Some older people are at a higher risk of poor outcomes due to frailty.
 Addressing frailty remains a high priority for Healthcare systems which continue to develop services and interventions that identify and support patients with frailty in order to maintain their functionality and independence thereby slowing or avoiding deterioration that often results in the need for hospital care.
 Frailty is also one of the core pathways where the development of virtual wards is focussed and therefore patients in this activity cohort may be suitable for admission to a frailty virtual ward.

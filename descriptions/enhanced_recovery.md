@@ -1,3 +1,7 @@
+---
+introduced: '2022-10-07'
+last_edited: '2022-10-07'
+---
 [Enhanced Recovery][1] is an evidence based model that is intended to help patients recover from major elective surgery quicker than they normally would do. It is based on the following principles:
 
 [1]: https://www.gov.uk/government/publications/enhanced-recovery-partnership-programme

@@ -1,3 +1,7 @@
+---
+introduced: '2022-10-07'
+last_edited: '2022-10-07'
+---
 Smoking is the biggest single cause of preventable death and ill-health within England. Reducing smoking prevalence through investment in smoking cessation services and public health interventions aimed at reducing take up will reduce admissions for a wide range of smoking attributable conditions. In addition historical measures such as national smoking bans will continue to have impact in future.
 
 The 2018 Royal college of physicians report [Hiding in plain sight][rcp_hps] provides a list of conditions and their associated ICD10 codes that can be attributable to smoking. The model uses this list to identify spells in the model that could be avoided. 

@@ -1,3 +1,7 @@
+---
+introduced: '2022-10-07'
+last_edited: '2022-10-07'
+---
 [Between 5 and 10%][1] of all hospital admissions may be medicines related. Such admissions can occur due to drug therapy failure, adverse reactions to drug therapy, failure to adhere to prescribed regimen or unintentional overdose.   Admissions of this type could be prevented with better self management on the patients' part or improved medicines management.
 
 The model identifies these admissions using two approaches.

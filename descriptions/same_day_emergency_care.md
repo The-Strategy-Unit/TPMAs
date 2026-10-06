@@ -1,3 +1,7 @@
+---
+introduced: '2022-10-07'
+last_edited: '2022-10-07'
+---
 The [Ambulatory Emergency Care Network](https://www.nhselect.nhs.uk/improvement-collaboratives/Clinical-networks/AEC) has published a Directory of Ambulatory Emergency Care for adults, 6th ed (2018) which identifies emergency conditions that have the potential to be managed as an emergency day case delivered in an SDEC unit.
 We have grouped these conditions into four types of potentially mitigatable activity (TPMA) cohorts, those that the network suggest have a:
 

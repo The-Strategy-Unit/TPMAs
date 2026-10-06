@@ -1,3 +1,7 @@
+---
+introduced: '2022-10-07'
+last_edited: '2022-10-07'
+---
 Research into alcohol related mortality and admissions suggests there are a number of admissions that are attributable to excess alcohol consumption which can ultimately lead to an emergency hospital admission or even death.
 
 Such admissions could be avoided by adopting a range of interventions including public health strategies such as raising public awareness against the harms of excessive alcohol consumption or minimum pricing policies or patient specific interventions such as primary care support and increasing addiction treatment services.

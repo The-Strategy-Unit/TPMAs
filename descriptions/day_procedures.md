@@ -1,3 +1,7 @@
+---
+introduced: '2022-10-07'
+last_edited: '2022-10-07'
+---
 Day surgery is now established practice with rates continuing to increase. Due to advances in anaesthesia and surgical techniques, it is the standard pathway of care for many complex patients and procedures traditionally treated through inpatient pathways.
 
 Day surgery represents high-quality patient care with excellent patient satisfaction. Shorter hospital stays and early mobilization reduce rates of hospital-acquired infection and venous thromboembolism. Patients overwhelmingly endorse day surgery, with smaller waiting times, less risk of cancellation, lower rates of infection, and the preference of their own surroundings to convalesce. 

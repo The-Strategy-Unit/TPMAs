@@ -1,3 +1,7 @@
+---
+introduced: '2022-10-07'
+last_edited: '2022-10-07'
+---
 Operations can be cancelled after a patient has been admitted this is inefficient for the provider and costly for the commissioner as they both incur an unnecessary opportunity cost. Cancelled operations can be for a variety of clinical, administrative or patient related reasons. Some of these admissions could be avoided through for example improved administration and scheduling or enhanced pre-op patient optimisation and assessment.
 
 These spells are identified via the HRG codes which identity spells where the planned procedure was not carried out.

@@ -1,2 +1,6 @@
+---
+introduced: '2022-10-07'
+last_edited: '2022-10-07'
+---
 This type of potentially mitigatable activity identifies all emergency admissions where the patient is aged 75 years or over.
 Typically, patients in this activity cohort have comparatively long LOS. There may be significant efficiency opportunities through process improvements, interventions or pathway developments that help to reduce LOS. Older people with frailty is also one of the core pathways where the development of virtual wards is focussed and therefore patients in this activity cohort may be suitable for earlier discharge through admission to a step down frailty virtual ward.

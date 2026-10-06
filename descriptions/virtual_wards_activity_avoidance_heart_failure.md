@@ -1,3 +1,7 @@
+---
+introduced: '2022-10-07'
+last_edited: '2022-10-07'
+---
 Virtual wards allow patients to receive the care they need at home, safely and conveniently rather than in hospital.
 They also provide systems with a significant opportunity to narrow the gap between demand and capacity for secondary care beds, by providing an alternative to admission and/or early discharge.
 
