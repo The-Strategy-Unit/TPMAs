@@ -41,20 +41,14 @@ Please complete the elements below relating to the type of change selected above
 2. Incoming TPMA name (if different from above):
 3. Original TPMA code: <e.g. AE-AA-005>
 4. Incoming TPMA code (if different from above):
-5. Original TPMA subtype: <e.g. Adult, Ambulance Conveyed>
-6. Incoming TPMA subtype (if different from above):
-7. Original TPMA variable name: <e.g. frequent_attenders_adult_ambulance>
-8. Incoming TPMA variable name (if different from above):
-9. Original TPMA activity type: <e.g. A&E>
-10. Incoming TPMA activity type (if different from above):
-11. Original TPMA type: <e.g. Activity Avoidance>
-12. Incoming TPMA type (if different from above):
-13. Original TPMA mechanism: <e.g. Redirection/Substitution>
-14. Incoming TPMA mechanism (if different from above):
-15. Original TPMA clinical group: <e.g. Emergency Department and Acute Medicine Activity>
-16. Incoming TPMA clinical group (if different from above):
-17. Public text explaining rationale for change and new TPMA: <>
-18. Link to nhp_data TPMA code PR: <>
+5. Incoming TPMA subtype (if different from above):
+6. Incoming TPMA variable name (if different from above):
+7. Incoming TPMA activity type (if different from above):
+8. Incoming TPMA type (if different from above):
+9. Incoming TPMA mechanism (if different from above):
+10. Incoming TPMA clinical group (if different from above):
+11. Public text explaining rationale for change and new TPMA: <>
+12. Link to nhp_data TPMA code PR: <>
 
 ### c) TPMA replacement
 
@@ -62,20 +56,14 @@ Please complete the elements below relating to the type of change selected above
 2. Incoming TPMA name:
 3. Outgoing TPMA code: <e.g. AE-AA-005>
 4. Incoming TPMA code:
-5. Outgoing  TPMA subtype: <e.g. Adult, Ambulance Conveyed>
-6. Incoming TPMA subtype:
-7. Outgoing TPMA variable name: <e.g. frequent_attenders_adult_ambulance>
-8. Incoming TPMA variable name:
-9. Outgoing TPMA activity type: <e.g. A&E>
-10. Incoming TPMA activity type:
-11. Outgoing TPMA type: <e.g. Activity Avoidance>
-12. Incoming TPMA type:
-13. Outgoing TPMA mechanism: <e.g. Redirection/Substitution>
-14. Incoming TPMA mechanism:
-15. Outgoing TPMA clinical group: <e.g. Emergency Department and Acute Medicine Activity>
-16. Incoming TPMA clinical group:
-17. Public text explaining rationale for change and new TPMA: <>
-18. Link to nhp_data TPMA code PR: <>
+5. Incoming TPMA subtype:
+6. Incoming TPMA variable name:
+7. Incoming TPMA activity type:
+8. Incoming TPMA type:
+9. Incoming TPMA mechanism:
+10. Incoming TPMA clinical group:
+11. Public text explaining rationale for change and new TPMA: <>
+12. Link to nhp_data TPMA code PR: <>
 
 ### d) TPMA retirement (without replacement)
 
