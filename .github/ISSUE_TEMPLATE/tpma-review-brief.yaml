@@ -1,0 +1,287 @@
+name: TPMA Review Brief
+description: A form to provide information for the Data Science team to implement a change
+title: "Proposed TPMA Change Brief: [TPMA name]"
+assignees:
+  - DCEW
+body:
+  - type: markdown
+    attributes:
+      value: >
+        ## 0. Preamble
+
+        This form should be completed at the end of a TPMA review process, ready for prioritisation by Data Science colleagues.
+        The process for handover is recorded on SharePoint (contact @DCEW for access).
+        You must make a new issue for each change proposed.
+
+  - type: markdown
+    attributes:
+      value: "## 1. Type of change"
+
+  - type: dropdown
+    id: change_type
+    attributes:
+      label: Select the type of TPMA change
+      description: Consider if you are you adding or removing a TPMA, or doing both.
+      options:
+        - Add a completely new TPMA
+        - Replace an existing TPMA with a new TPMA
+        - Combine multiple existing TPMAs
+        - Split an existing TPMA into multiple TPMAs
+        - Modify an existing TPMA
+        - Retire an existing TPMA without replacement
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ## 2. New TPMA(s)
+
+        Provide information about the new TPMA(s) being created.
+
+        You must complete this section unless you are _retiring_ a TPMA (skip to section 4 if so). If you are:
+        * _adding_ a TPMA, you must complete all fields in this section
+        * _modifying_ a TPMA's attributes, you can leave unaffected fields blank
+        * _splitting_ a TPMA into multiple TPMAs, use the free-text box at the bottom of this section to provide further details
+
+  - type: input
+    id: new_code
+    attributes:
+      label: Provide the new TPMA's code
+      description: >
+        The first letter-pair is the activity type: AE (A&E), IP (inpatients) or OP (outpatients).
+        The second pair is the TPMA type: AA (activity avoidance) or EF (efficiencies).
+        The number should be an increment to the existing set of TPMA codes in this activity-/TPMA-type combo.
+      placeholder: "e.g. AE-AA-005"
+
+  - type: input
+    id: new_name
+    attributes:
+      label: Provide the new TPMA's name
+      description: Human-readable name (without sub-type).
+      placeholder: "e.g. Frequent A&E Attenders"
+
+  - type: input
+    id: new_subtype
+    attributes:
+      label: Provide the new TPMA's subtype
+      description: May not be relevant if there are no subtypes.
+      placeholder: "e.g. Adult, Ambulance Conveyed"
+
+  - type: input
+    id: new_variable_name
+    attributes:
+      label: Provide the new TPMA's variable name.
+      description: Used internally.
+      placeholder: "e.g. frequent_attenders_adult_ambulance"
+
+  - type: dropdown
+    id: new_activity_type
+    attributes:
+      label: Select the new TPMA's activity type
+      options:
+        - A&E
+        - Inpatients
+        - Outpatients
+    validations:
+      required: false
+
+  - type: dropdown
+    id: new_type
+    attributes:
+      label: Select the new TPMA's type
+      options:
+        - Activity Avoidance
+        - Efficiencies
+    validations:
+      required: false
+
+  - type: dropdown
+    id: new_mechanism
+    attributes:
+      label: Select the new TPMA's mechanism
+      options:
+        - De-adoption
+        - Hospital Efficiency
+        - Prevention
+        - Redirection/Substitution
+    validations:
+      required: false
+
+  - type: dropdown
+    id: new_clinical_group
+    attributes:
+      label: Select the new TPMA's clinical group
+      options:
+        - Emergency Department and Acute Medicine Activity
+        - Hospital Activity Amenable to Medicines Management
+        - Hospital Activity Amenable to Primary Care and Community Interventions
+        - Hospital Activity Amenable to Psychiatric Liaison and Community Psychiatry
+        - Hospital Activity Amenable to Public Health Interventions
+        - Planned Medical Activity (Adult)
+        - Planned Medical Activity (Paediatric)
+        - Planned Surgical Activity (Adult)
+        - Planned Surgical Activity (Paediatric)
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional_incoming
+    attributes:
+      label: Provide detail for any additional new TPMAs
+      description: |
+        Required if there's more than one incoming TPMA.
+        <details>
+          <summary>Expand the template for adding additional TPMAs</summary>
+            <pre>
+              <code>
+                Additional TPMA
+                - Code: e.g. AE-AA-005
+                - Name: e.g. Frequent A&E Attenders
+                - Subtype: e.g. Adult, Ambulance Conveyed
+                - Variable name: e.g. frequent_attenders_adult_ambulance
+                - Activity type: e.g. A&E
+                - Type: e.g. Activity Avoidance
+                - Mechanism: e.g. Redirection/Substitution
+                - Clinical group: e.g. Emergency Department and Acute Medicine Activity
+            </code>
+          </pre>
+        </details>
+      placeholder: Copy-paste the template here, once per additional TPMA
+
+  - type: markdown
+    attributes:
+      value: |
+        ## 3. Attribute modification
+
+        Provide new attributes for an existing TPMA that is being modified (leave unaffected fields empty).
+
+        You must complete this section only if you are _modifying_ a target TPMA's attributes (otherwise, skip to section 4).
+
+  - type: input
+    id: modified_code
+    attributes:
+      label: Provide the code of the target TPMA
+      description: >
+        The first letter-pair is the activity type: AE (A&E), IP (inpatients) or OP (outpatients).
+        The second pair is the TPMA type: AA (activity avoidance) or EF (efficiencies).
+        The number should be an increment to the existing set of TPMA codes in this activity-/TPMA-type combo.
+      placeholder: "e.g. AE-AA-005"
+
+  - type: input
+    id: modified_name
+    attributes:
+      label: Provide a modified TPMA name
+      description: Human-readable name (without sub-type).
+      placeholder: "e.g. Frequent A&E Attenders"
+
+  - type: input
+    id: modified_subtype
+    attributes:
+      label: Provide a modified TPMA subtype
+      description: May not be relevant if there are no subtypes.
+      placeholder: "e.g. Adult, Ambulance Conveyed"
+
+  - type: input
+    id: modified_variable_name
+    attributes:
+      label: Provide a modified TPMA variable name.
+      description: Used internally.
+      placeholder: "e.g. frequent_attenders_adult_ambulance"
+
+  - type: dropdown
+    id: modified_activity_type
+    attributes:
+      label: Select a different activity type for the TPMA
+      options:
+        - A&E
+        - Inpatients
+        - Outpatients
+    validations:
+      required: false
+
+  - type: dropdown
+    id: modified_type
+    attributes:
+      label: Select a different type for the TPMA
+      options:
+        - Activity Avoidance
+        - Efficiencies
+    validations:
+      required: false
+
+  - type: dropdown
+    id: modified_mechanism
+    attributes:
+      label: Select a different mechanism for the TPMA
+      options:
+        - De-adoption
+        - Hospital Efficiency
+        - Prevention
+        - Redirection/Substitution
+    validations:
+      required: false
+
+  - type: dropdown
+    id: modified_clinical_group
+    attributes:
+      label: Select a different clinical group for the TPMA
+      options:
+        - Emergency Department and Acute Medicine Activity
+        - Hospital Activity Amenable to Medicines Management
+        - Hospital Activity Amenable to Primary Care and Community Interventions
+        - Hospital Activity Amenable to Psychiatric Liaison and Community Psychiatry
+        - Hospital Activity Amenable to Public Health Interventions
+        - Planned Medical Activity (Adult)
+        - Planned Medical Activity (Paediatric)
+        - Planned Surgical Activity (Adult)
+        - Planned Surgical Activity (Paediatric)
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ## 4. Retiring TPMA(s)
+
+        Provide information about the existing TPMA(s) that will be deprecated.
+
+        You must only complete this section if you are _retiring_ one or more TPMAs (otherwise skip to section 5).
+
+  - type: input
+    id: retiring_code
+    attributes:
+      label: List the outgoing TPMA code(s) and name(s)
+      description: >
+        Code(s) and human-readable name(s) (including sub-type) for the existing TPMA(s) beinf retired.
+        Separate multiple entries with a semi-colon.
+      placeholder: "e.g. AE-AA-005: Frequent A&E Attenders (Adult, Ambulance Conveted)"
+
+  - type: markdown
+    attributes:
+      value: "## 5. Rationale"
+
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Provide rationale
+      description: >
+        Explain the need for the changes detailed above.
+        This text will be presented to users.
+      placeholder: Insert rationale
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: "## 6. Code"
+
+  - type: input
+    id: pr_link
+    attributes:
+      label: Provide a PR link
+      description: >
+        Link to the locally-tested pull-request (PR) in nhp_data containing the requested code changes.
+      placeholder: "https://github.com/The-Strategy-Unit/nhp_data/pull/123"
+    validations:
+      required: true
