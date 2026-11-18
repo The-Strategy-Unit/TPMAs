@@ -40,15 +40,14 @@ Please complete the elements below relating to the type of change selected above
 1. Original TPMA name: <e.g. Frequent A&E Attenders>
 2. Incoming TPMA name (if different from above):
 3. Original TPMA code: <e.g. AE-AA-005>
-4. Incoming TPMA code (if different from above):
-5. Incoming TPMA subtype (if different from above):
-6. Incoming TPMA variable name (if different from above):
-7. Incoming TPMA activity type (if different from above):
-8. Incoming TPMA type (if different from above):
-9. Incoming TPMA mechanism (if different from above):
-10. Incoming TPMA clinical group (if different from above):
-11. Public text explaining rationale for change and new TPMA: <>
-12. Link to nhp_data TPMA code PR: <>
+4. Incoming TPMA subtype (if different from above):
+5. Incoming TPMA variable name (if different from above):
+6. Incoming TPMA activity type (if different from above):
+7. Incoming TPMA type (if different from above):
+8. Incoming TPMA mechanism (if different from above):
+9. Incoming TPMA clinical group (if different from above):
+10. Public text explaining rationale for change and new TPMA: <>
+11. Link to nhp_data TPMA code PR: <>
 
 ### c) TPMA replacement
 
